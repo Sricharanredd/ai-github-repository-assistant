@@ -1,0 +1,13 @@
+
+{
+  "issue_type": "bug",
+  "priority": "high",
+  "severity": "high",
+  "summary": "Users are unable to receive password reset emails after submitting their registered email addresses. Although the application displays a successful request message, the password reset email is not delivered.",
+  "suggested_labels": [
+    "bug",
+    "high-priority",
+    "authentication"
+  ],
+  "suggested_response": "Thank you for reporting this issue. We will investigate the password reset email delivery process, including the email service integration and notification logs, to identify the cause of the problem."
+}
